@@ -1,0 +1,40 @@
+.header{
+	min-height: 100px;
+	background-color: orangered;
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	min-height: 200px;
+	background-color: palegreen;
+	width: 50%;
+	float: left;
+}
+.blog{
+	min-height: 200px;
+	background-color: darksalmon;
+	width: 50%;
+	float: right;
+}
+.container{
+	overflow: hidden;
+}
+.box{
+	min-height: 200px;
+	width: 33.3%;
+	float: left;
+}
+.maroon{
+	background-color: maroon;
+}
+.lime{
+	background-color: lime;
+}
+.midnightblue{
+	background-color: midnightblue;
+}
+.footer{
+	min-height: 100px;
+	background-color: plum;
+}
